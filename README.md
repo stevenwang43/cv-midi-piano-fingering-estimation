@@ -1,5 +1,7 @@
 # Real-Time ML Piano Fingering Prediction & Evaluation Pipeline
 
+![Demo](demo.gif)
+
 A computer vision and machine learning pipeline that predicts piano fingerings in real time. The system fuses MediaPipe 2D hand landmark tracking with live digital piano MIDI inputs and evaluates model performance using an OpenCV evaluation display.
 
 ## Key Metrics & Pipeline Architecture
